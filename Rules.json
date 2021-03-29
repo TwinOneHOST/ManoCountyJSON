@@ -1,15 +1,15 @@
 {
-	"rule":{
+	"frp":{
 		"rule":"rule1",
 		"desc":"dddd",
 		"punishment":"ddd"
 		},
-	"rule":{
+	"ambush":{
 		"rule":"rule3",
 		"desc":"eeee",
 		"punishment":"eee"
 		},
-	"rule":{
+	"exploit":{
 		"rule":"rule2",
 		"desc":"ffff",
 		"punishment":"fff"
