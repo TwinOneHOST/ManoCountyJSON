@@ -1,45 +1,45 @@
 {
-	"rule":{
+	"1":{
 		"rule":"Spawn Killing",
 		"desc":"Killing people who have just spawned into the game.",
 		"punishment":"3 Day Ban"
 		},
-	"rule":{
+	"2":{
 		"rule":"FLIPPING IN PURSUITS",
 		"desc":"While involved in a pursuit, using the flip button on an overturned vehicle that did not get flung.",
 		"punishment":"3 Day Ban"
 		},
-	"rule":{
+	"3":{
 		"rule":"CIVILIAN NEW LIFE RULE",
 		"desc":"A civilian may not commit another felony after dying until 5 minutes have passed. A civilian may not return to the same scene at which they have just died at. ",
 		"punishment":"Server Ban"
 		},
-    "rule":{
+    "4":{
 		"rule":"LAW ENFORCEMENT NEW LIFE RULE",
 		"desc":"A law enforcement officer is not permitted to respond to a call at which they have died at until 3 minutes have passed.",
 		"punishment":"Server Ban"
 		},
-    "rule":{
+    "5":{
 		"rule":"STEALING GLITCHED VEHICLES",
 		"desc":"Stealing glitched emergency service vehicles.",
 		"punishment":"4 Day Ban"
 		},
-    "rule":{
+    "6":{
 		"rule":"SPAWN CAMPING",
 		"desc":"Sitting near a spawn and killing the players that come out of the spawn more than 2 times within 5 minutes.",
 		"punishment":"4 Day Ban"
 		},
-    "rule":{
+    "7":{
 		"rule":"LEAVING/RESETTING TO AVOID ARREST",
 		"desc":"When a suspect leaves the game, resets, or changes team (NOT IN CUFFS) to avoid being arrested.",
 		"punishment":"4 Day Ban"
 		},
-    "rule":{
+    "8":{
 		"rule":"NONEXISTENT TOOLS",
 		"desc":"Attempting to use tools that are not in your toolbar",
 		"punishment":"Warning/Server Kick or Ban"
 		},
-    "rule":{
+    "9":{
 		"rule":"",
 		"desc":"",
 		"punishment":""
