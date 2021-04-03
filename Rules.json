@@ -1,47 +1,187 @@
 {
-	"1":{
-		"rule":"Spawn Killing",
+	{
+		"rule":"SECTION 1",
+		"desc":"FAIL ROLEPLAY RULES",
+		"punishment":""
+	},
+	{
+		"rule":"SPAWN KILLING",
 		"desc":"Killing people who have just spawned into the game.",
 		"punishment":"3 Day Ban"
-		},
-	"2":{
+	},
+	{
 		"rule":"FLIPPING IN PURSUITS",
 		"desc":"While involved in a pursuit, using the flip button on an overturned vehicle that did not get flung.",
 		"punishment":"3 Day Ban"
-		},
-	"3":{
+	},
+	{
 		"rule":"CIVILIAN NEW LIFE RULE",
 		"desc":"A civilian may not commit another felony after dying until 5 minutes have passed. A civilian may not return to the same scene at which they have just died at. ",
 		"punishment":"Server Ban"
-		},
-    "4":{
+	},
+	{
 		"rule":"LAW ENFORCEMENT NEW LIFE RULE",
 		"desc":"A law enforcement officer is not permitted to respond to a call at which they have died at until 3 minutes have passed.",
 		"punishment":"Server Ban"
-		},
-    "5":{
+	},
+	{
 		"rule":"STEALING GLITCHED VEHICLES",
 		"desc":"Stealing glitched emergency service vehicles.",
 		"punishment":"4 Day Ban"
-		},
-    "6":{
+	},
+	{
 		"rule":"SPAWN CAMPING",
 		"desc":"Sitting near a spawn and killing the players that come out of the spawn more than 2 times within 5 minutes.",
 		"punishment":"4 Day Ban"
-		},
-    "7":{
+	},
+	{
 		"rule":"LEAVING/RESETTING TO AVOID ARREST",
 		"desc":"When a suspect leaves the game, resets, or changes team (NOT IN CUFFS) to avoid being arrested.",
 		"punishment":"4 Day Ban"
-		},
-    "8":{
+	},
+	{
 		"rule":"NONEXISTENT TOOLS",
 		"desc":"Attempting to use tools that are not in your toolbar",
 		"punishment":"Warning/Server Kick or Ban"
-		},
-    "9":{
-		"rule":"",
-		"desc":"",
+	},
+	{
+		"rule":"TOOLS UNDERWATER",
+		"desc":"Civilians and LEO alike may not use tools underwater that would not work underwater. (Firearms, tasers, OC Spray)",
+		"punishment":"Warning/Server Kick or Ban"
+	},
+	{
+		"rule":"WEAPONS WHILE CUFFED/TASED",
+		"desc":"A civilian may not produce a weapon while actively in handcuffs or tased.",
+		"punishment":"Warning/Server Kick (3 Day Ban if Actively Shooting)"
+	},
+	{
+		"rule":"DISREGARDING ROLEPLAY",
+		"desc":"A civilian may not make up or disregard RP actions to evade from LEO's. ",
+		"punishment":"3 Day Ban"
+	},
+	{
+		"rule":"REFUSING TO ROLEPLAY ACTIONS",
+		"desc":"Committing any act without roleplaying it where you would need to otherwise call out a roleplay action, for example, an officer unlocking a car door from the outside",
+		"punishment":"Warning/Server Kick"
+	},
+	{
+		"rule":"SEVERE BAITING",
+		"desc":"Intentionally ramming, blocking or attemptiong to instigate conflict with a police officer for no apparent reason continuously",
+		"punishment":"Server Ban / 3 Day Ban"
+	},
+	{
+		"rule":"AMBUSHING ROLEPLAY",
+		"desc":"Ambushing any scene as described in Section 2",
+		"punishment":"Refer to Section 2"
+	},
+	{
+		"rule":"SECTION 2",
+		"desc":"AMBUSHING RULES",
 		"punishment":""
-		}
+	},
+	{
+		"rule":"Hostage Situation",
+		"desc":"Shooting at or running down with a vehicle the hostage taker or the hostage",
+		"punishment":"Server Ban"
+	},
+	{
+		"rule":"Barricaded Subject",
+		"desc":"Rushing inside and taking down the suspect with no authorization",
+		"punishment":"Server Ban"
+	},
+	{
+		"rule":"Medical Roleplay",
+		"desc":"Shooting or running down with a vehicle the patients, or the medical/fire staff on scene",
+		"punishment":"Server Ban"
+	},
+	{
+		"rule":"Tow Operation",
+		"desc":"Shooting or running down with a vehicle the tow truck operator, or the victim",
+		"punishment":"Server Ban"
+	},
+	{
+		"rule":"Checkpoint Operation",
+		"desc":"Shooting the Civilians waiting at a checkpoint",
+		"punishment":"Server Ban"
+	},
+	{
+		"rule":"Fire Scene",
+		"desc":"Shooting the firefighers, victims at a fire scene, or running into the inferno after fire crews have arrived",
+		"punishment":"Server Ban"
+	},
+	{
+		"rule":"SECTION 3",
+		"desc":"GENERAL COUNTY RULES",
+		"punishment":""
+	},
+	{
+		"rule":"HARRASSMENT",
+		"desc":"Continuously threatening or bullying another someone",
+		"punishment":"1 Week - Permanent Ban"
+	},
+	{
+		"rule":"ROBLOX TERMS OF SERVICE",
+		"desc":"Violating Roblox Community Rules 2, 3, 6, 7, 8, 11, or 13",
+		"punishment":"3 Day Ban"
+	},
+	{
+		"rule":"GLITCHING",
+		"desc":"Using roblox / in-game bugs to gain an advantage over others or gain access to otherwise restricted areas.",
+		"punishment":"Server Ban / 3 Day Trello Ban"
+	},
+	{
+		"rule":"EXPLOITING",
+		"desc":"Using a 3rd party script executer to gain an advantage or ruin others enjoyment in game.",
+		"punishment":"Permanent Ban"
+	},
+	{
+		"rule":"EXCESSIVE BANS",
+		"desc":"Having 3 Bans on Record in 6 months (Not Appealed)",
+		"punishment":"a. 2 Week Ban\nb. Permanent Ban"
+	},
+	{
+		"rule":"TROLLING",
+		"desc":"Annoying other players to elicit a reaction for no reason",
+		"punishment":"1. Warning\n2.Kick\n3.Server Ban"
+	},
+	{
+		"rule":"ALTERNATE ACCOUNT",
+		"desc":"Using an Alternate Account to avoid a ban/suspension. Or using for crime.",
+		"punishment":"Permanent Ban of Alt Account\nFurther action taken on main account"
+	},
+	{
+		"rule":"STEALING ASSETS",
+		"desc":"Taking county assets for personal use.",
+		"punishment":"Permanent Ban until Assets Removed\n3+ Bans for this will result in an unappealable permanent ban"
+	},
+	{
+		"rule":"IMPERSONATION",
+		"desc":"Impersonating another person trying to ruin their reputation, or impersonating a staff member",
+		"punishment":"Permanent Ban (until name changed)"
+	},
+	{
+		"rule":"THREATS",
+		"desc":"The intent to cause damage or danger to someone",
+		"punishment":"Permanent Ban"
+	},
+	{
+		"rule":"TAMPERING WITH COUNTY RESOURCES",
+		"desc":"Editing/Deleting/Spreading County Documents",
+		"punishment":"1 Month Ban"
+	},
+	{
+		"rule":"GIVING OUT/ASKING FOR PERSONAL INFORMATION",
+		"desc":"Asking for/giving out any information that could compromise the privacy of somebody's idendity.",
+		"punishment":"7 Day Ban"
+	},
+	{
+		"rule":"FORGING",
+		"desc":"The creation of a false written document/media or alteration of a genuine one, with the intent to defraud.",
+		"punishment":"1 Week Ban"
+	},
+	{
+		"rule":"GANGS",
+		"desc":"An organized group of criminals with rules, hits, a hirearchy, and/or outifts",
+		"punishment":"Permanent Ban (until dissolution)"
+	}
 }
