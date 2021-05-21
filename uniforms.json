@@ -389,6 +389,32 @@
          "Assistant Chief":3049403841,
          "Chief of Medical Operations":3049403841,
 	 "Group Holder":3049403841
+      },
+      "TrainingTop":{
+         "Academy Student":3246595800,
+         "Emergency Medical 3246595800":3246595800,
+         "Paramedic":3246595800,
+         "Advanced Paramedic":3246595800,
+         "Lieutenant":3246594559,
+         "Captain":3246594559,
+	 "Deputy Chief Paramedic":3246594559,
+         "Chief Paramedic":3246594559,
+         "Assistant Chief":3246594559,
+         "Chief of Medical Operations":3246594559,
+	 "Group Holder":3246594559
+      },
+      "TrainingBottom":{
+         "Academy Student":3230534851,
+         "Emergency Medical Technician":3230534851,
+         "Paramedic":3230534851,
+         "Advanced Paramedic":3230534851,
+         "Lieutenant":3230534851,
+         "Captain":3230534851,
+	 "Deputy Chief Paramedic":3230534851,
+         "Chief Paramedic":3230534851,
+         "Assistant Chief":3230534851,
+         "Chief of Medical Operations":3230534851,
+	 "Group Holder":3230534851
       }
    },
    "Tactical Response":{
