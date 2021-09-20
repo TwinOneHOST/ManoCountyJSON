@@ -504,20 +504,6 @@
     "Sheriff":7375782733
      },
      "SWATCRUUnderShirtBottom":{
-        "Cadet":6921569001,
-        "Private":6921569001,
-        "Private First Class":6921569001,
-        "Sergeant":6921569001,
-        "Lieutenant":6921569001,
-        "Captain":6921569001,
-        "Major":6921569001,
-        "Commander":6921569001,
-        "Executive Officer":6921569001,
-        "Commanding Officer":6921569001,
-    "Undersheriff":6921569001,
-    "Sheriff":6921569001
-     },
-      "SWATCRUBottom":{
         "Cadet":7375724703,
         "Private":7375724703,
         "Private First Class":7375724703,
@@ -530,6 +516,20 @@
         "Commanding Officer":7375724703,
     "Undersheriff":7375724703,
     "Sheriff":7375724703
+     },
+      "SWATCRUBottom":{
+        "Cadet":6921569001,
+        "Private":6921569001,
+        "Private First Class":6921569001,
+        "Sergeant":6921569001,
+        "Lieutenant":6921569001,
+        "Captain":6921569001,
+        "Major":6921569001,
+        "Commander":6921569001,
+        "Executive Officer":6921569001,
+        "Commanding Officer":6921569001,
+    "Undersheriff":6921569001,
+    "Sheriff":6921569001
      },
 	   "SRULong":{
          "Candidate":5360338776,
